@@ -57,13 +57,7 @@ const GetOneUser = () => {
             <p style={{margin: "10px"}}>If you'd like to try the seeded users, their IDs are below.<br/>Admin is the only one that should be able to access all users</p>
             <ul>
                 <li>
-                    User is: <strong>Admin</strong>, ID is: <strong>a8dd587f-a55b-4507-bab2-8316973fa45d </strong>
-                </li>
-                <li>
-                    User is: <strong>Subscriber</strong>, ID is: <strong>74b265c2-dd2f-433a-9a33-76c09167fb7a</strong>
-                </li>
-                <li>
-                    User is: <strong>Guest</strong>, ID is: <strong>ac2ce86c-4b66-4c7d-8080-87916c6a13c2</strong>
+                    <strong>Look up IDs in db table for seeded user IDs, I think they change each time we seed!</strong>
                 </li>
             </ul>
             <ul className="list-group">
